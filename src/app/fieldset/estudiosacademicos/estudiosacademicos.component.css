@@ -1,0 +1,14 @@
+.container{
+    background-color:  rgb(232, 224, 238);
+    border: 1px solid black;   
+    font-family: Arial; color: black;
+    padding: 12px;
+    width: 60%;
+    margin: 0 auto; 
+}
+
+fieldset{
+    margin-bottom: 12px;
+    background-color:  rgb(232, 224, 238);
+}
+
